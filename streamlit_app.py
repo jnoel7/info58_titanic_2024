@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 # Titre de l'app
-st.title("Classification binaire du titanic - 2023")
+st.title("Classification binaire du titanic - 2024")
 
 
 # st.markdown(
